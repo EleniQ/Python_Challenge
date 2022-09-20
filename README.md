@@ -2,10 +2,11 @@
 
 Completed two assignments for module 3. 
 
-# Steps
+# Thought Process
 
 I completed PyPoll first as I found this easier to complete and was able to use less variables in the code. 
 PyBank required me to set more variables as I struggled to complete the averages and greatest increase and decrease without them.
+I seem to find it easier to go through the code without creating too many variables as I feel it can overcomplicate things, using .append to create new more specific lists to store the information I require is faster. However for PyBank it was too challenging for me to complete it this way. 
 
 
 # What I have done 
@@ -23,7 +24,7 @@ I think this code is far less efficient then my PyPoll code as it stores quite a
 All of this data prints within the terminal, has been debugged, and produced a txt.file in the Analysis folder. 
 
   
-## For Additiona detail on the code, please check the main.py file within PyBank and PyPoll folders. 
+## For Additional detail on the code, please check the main.py file within PyBank and PyPoll folders. 
 The txt.file can be found in the Analysis folder within their respective folders.
 The original CSV resource can be found within the respective folder too. 
 
